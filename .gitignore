@@ -1,0 +1,4 @@
+.idea/
+fastapi-venv/
+blog.db
+__pycache__/
